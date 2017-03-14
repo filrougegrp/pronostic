@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+	
+	<SALARIE ID_SALARIE="1"  NOM="badouch" PRENOM="mohamed" USERNAME="badouch" PASSWORD="password" ID_ROLE="2" />
+	<SALARIE ID_SALARIE="2"  NOM="elmerouni" PRENOM="marouane" USERNAME="elmerouni" PASSWORD="password" ID_ROLE="2" />
+	<SALARIE ID_SALARIE="3"  NOM="saoud" PRENOM="amine" USERNAME="saoud" PASSWORD="password" ID_ROLE="2" />
+	
+	
+	
+
+</dataset>
