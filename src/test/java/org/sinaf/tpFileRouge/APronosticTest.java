@@ -28,7 +28,7 @@ public abstract class APronosticTest {
 	// TODO : change PATH /home/mar1/workspace/tpFileRouge/src/test/resources
 	// C:/Users/ecole5/workspace/tpFileRouge/src/test/resources
 	// D:/workspaceEE/tpFileRouge/src/test/resources
-	private static final String PATH = "/home/mar1/workspace/tpFileRouge/src/test/resources";
+	private static final String PATH = "src/test/resources";
 	private static final String URL = "jdbc:h2:mem:testTpFileRouge;INIT=runscript from '" + PATH
 			+ "/Create_Tables.sql'\\;runscript from '" + PATH + "/Insert_data.sql'";
 
